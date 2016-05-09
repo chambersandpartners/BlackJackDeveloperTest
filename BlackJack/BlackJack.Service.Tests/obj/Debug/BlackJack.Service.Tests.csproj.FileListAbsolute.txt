@@ -1,0 +1,11 @@
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Service.Tests.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Service.Tests.pdb
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Dtos.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Service.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\nunit.framework.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Dtos.pdb
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\BlackJack.Service.pdb
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\bin\Debug\nunit.framework.xml
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\obj\Debug\BlackJack.Service.Tests.csprojResolveAssemblyReference.cache
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\obj\Debug\BlackJack.Service.Tests.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service.Tests\obj\Debug\BlackJack.Service.Tests.pdb

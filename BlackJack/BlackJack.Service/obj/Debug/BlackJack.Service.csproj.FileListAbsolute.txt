@@ -1,0 +1,7 @@
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\bin\Debug\BlackJack.Service.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\bin\Debug\BlackJack.Service.pdb
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\bin\Debug\BlackJack.Dtos.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\bin\Debug\BlackJack.Dtos.pdb
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\obj\Debug\BlackJack.Service.csprojResolveAssemblyReference.cache
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\obj\Debug\BlackJack.Service.dll
+c:\users\raj.pandian\documents\visual studio 2015\Projects\BlackJack\BlackJack.Service\obj\Debug\BlackJack.Service.pdb

@@ -4,8 +4,11 @@ A Coding Test for .NET Developers as part of the Chambers and Partners applicati
 
 Create an API for the website which plays hands of BlackJack
 
-Valid Suits are Hearts, Diamonds, Spades, Clubs
-Valid Face values are Ace, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King
+Valid Suits are:
+Hearts, Diamonds, Spades, Clubs
+
+Valid Face values are:
+Ace, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King
 
 A Card Consists of A Suit and a Face Value
 
@@ -17,19 +20,19 @@ A Player has a name and a Hand
 
 A Dealer has a Deck and a Hand
 
-A Game consists a Dealer and a Player
+A Game consists of a Dealer and a Player
 
-At the start of the game the Deck is shuffled and the dealer deals 2 cards to the players hand and 2 to dealers hand
+At the start of the game the Deck is shuffled and the dealer deals 2 cards to the player's hand and 2 to dealer's hand.
 
 The Player goes first and has the option to "Hit" or "Stick"
 
-When the player hits the dealer deals them another card if the total of the cards is worth 21 or more the player is bust and has lost.
+When the player hits, the dealer deals them another card. If the total of the cards is worth 21 or more the player is bust and has lost.
 
-When the player Sticks the Dealer will hit until their hand is worth at least 17 or greater.
+When the player Sticks, the Dealer will hit until their hand is worth at least 17 or greater.
 
 The Player with the greater score without going bust is the winner.
 
-Cards are scored as follows
+Cards are scored as follows:
 
 | Face | Value |
 | :---: | :---: |
